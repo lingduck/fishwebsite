@@ -1,0 +1,83 @@
+<!doctype html>
+
+<html> 
+<head>
+  <link rel="shortcut icon" href="./favicon.ico" type="favicon">
+  <link rel="icon" href="./favicon.ico" type="image/x-icon">
+<title>Fish is The  best! </title>
+<link rel="stylesheet" href="mystyle.css">
+<script src="include-html.js"></script>
+
+</head>
+
+
+<body bgcolor=teal>
+<font color=yellow>
+
+  <nav include-html="./navbar.html"></nav>
+  
+  <script>
+    includeHTML();
+  </script>
+
+
+<h1>Contributions!</h1>
+<p> <b>LingDuck-Maker
+ <br> Kappa C0dex - Helper on DnS and upload.
+ <br> sarwan - helped on cloudflare etc
+ <br> nate - helped on setting up cloudflare. </b>
+
+</p>
+         </ul>
+        
+                  <p> Current sources 
+            <br>
+            <a target="_blank"href=https://forum.americanexpedition.us/largemouth-bass-information-facts-photos-and-artwork>
+            bass fish info source </a>
+            <br>
+            <a target="_blank"href=https://www.calories.info/food/fish-seafood>
+            calories info source </a>
+            <br>
+            <a target="_blank"href="https://wwf.ca/2015/03/19/did-you-know-10-amazing-things-about-salmon/">
+            salmon info source </a>
+            <br>
+            <a target="_blank"href=https://www.nationalgeographic.org/media/anthias-wbt>
+              anthias Fish info source 1 </a>
+              <br>
+              <a target="_blank"href=https://en.wikipedia.org/wiki/Anthias_anthias>
+                anthias Fish info source 2 </a>
+            <br>
+            <a target="_blank"href=https://www.mentalfloss.com/article/63719/20-freaky-facts-about-giant-squid>
+           Giant squid info source 1 </a>
+           <br>
+		  <a target="_blank"href=https://en.wikipedia.org/wiki/Colossal_squid>
+           Giant squid info source 2</a> <br>
+           <a href=https://en.wikipedia.org/wiki/Tuna>
+            tuna info source 1  </a> <br>
+            <a target="_blank"href=https://www.softschools.com/facts/animals/tuna_facts/303>
+              tuna info source 2</a>
+              <br>
+              <a target="_blank"href=https://animaldiversity.org/accounts/Synchiropus_splendidus>
+                Mandarinfish info source </a>
+                <br>
+                  <a target="_blank"href=https://www.twofishdivers.com/2019/05/mandarin-fish-facts-indonesia>
+                Mandarinfish info source 2 </a>
+                <br>
+                <a target="_blank"href=https://puregoldfish.com/facts>
+                  Goldfish info source 1 </a>
+                  <br>
+                  <a target="_blank"href=https://en.wikipedia.org/wiki/Goldfish>
+                    Goldfish info source 2 </a> <br>
+                    <a href=https://en.wikipedia.org/wiki/Tetraodontidae>
+                      pufferfish info source 1 </a>
+                      <br>
+                      <a target="_blank"href=https://en.wikipedia.org/wiki/Tetraodontidae>
+                        pufferfish info source 2 </a>
+           
+                  </p>
+    
+			
+
+</font>
+</body>
+</html>

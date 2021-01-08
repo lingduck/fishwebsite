@@ -1,0 +1,26 @@
+<!doctype html>
+
+<html> 
+<head>
+  <link rel="shortcut icon" href="./favicon.ico" type="favicon">
+  <link rel="icon" href="./favicon.ico" type="image/x-icon">
+<title>Fish is The  best! </title>
+<link rel="stylesheet" href="mystyle.css">
+<script src="include-html.js"></script>
+
+</head>
+
+
+<body bgcolor=teal>
+<font color=yellow>
+
+  <div include-html="./navbar.html"></div>
+  
+  <script>
+    includeHTML();
+  </script>
+
+<h3>UNDER CONSTRUCTION!!</h3>
+</font>
+</body>
+</html>
